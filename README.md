@@ -62,6 +62,6 @@ src="https://img.shields.io/twitter/follow/wowgogoing?logo=twitter&style=for-the
 
 <li style="display: inline-block; margin-right: 0.25rem;">
   <img src="blockchain-address.png" width="150" alt="blockchain-address"/>
-  0x29eF68D98e1cb32E68e66d1CBbB7C6786D7aBC53
+  0x29eF68D98e1cb32E68e66d1CBbB7C6786D7aBC53  (Cryptocurrency)
 </li>
 </ul>
