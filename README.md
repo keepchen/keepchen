@@ -34,7 +34,7 @@ src="https://img.shields.io/twitter/follow/wowgogoing?logo=twitter&style=for-the
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/WebdevShefali" target="_blank" rel="noreferrer"> 
+  <a href="https://www.github.com/keepchen" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
@@ -46,6 +46,13 @@ src="https://img.shields.io/twitter/follow/wowgogoing?logo=twitter&style=for-the
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+  <a href="https://www.instagram.com/keepchen2016" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
     </picture> 
   </a>
 </p>
@@ -64,6 +71,7 @@ src="https://img.shields.io/twitter/follow/wowgogoing?logo=twitter&style=for-the
 
 <li style="display: inline-block; margin-right: 0.25rem;">
   <img src="blockchain-address.png" width="150" alt="blockchain-address"/>
+  <br/>
   0x29eF68D98e1cb32E68e66d1CBbB7C6786D7aBC53  (Cryptocurrency)
 </li>
 </ul>
