@@ -8,7 +8,7 @@ Web developer / Indie hacker / Corgi fans / Other...
 * 🖥️  See my blog at [blog.keepchen.com](https://blog.keepchen.com?form=github)
 * ✉️  You can contact me at [keepchen2016@gmail.com](mailto:keepchen2016@gmail.com)
 
-<a href="https://www.twitter.com/wowgogoing" target="_blank" rel="noreferrer"><img
+<a href="https://x.com/intent/follow?screen_name=wowgogoing" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/wowgogoing?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
@@ -70,8 +70,10 @@ src="https://img.shields.io/twitter/follow/wowgogoing?logo=twitter&style=for-the
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;">
-  <img src="blockchain-address.png" width="150" alt="blockchain-address"/>
+  Cryptocurrency (ERC20)
   <br/>
-  0x29eF68D98e1cb32E68e66d1CBbB7C6786D7aBC53  (ERC20)
+  0x29eF68D98e1cb32E68e66d1CBbB7C6786D7aBC53 
+  <br/>
+  <img src="blockchain-address.png" width="150" alt="blockchain-address"/>
 </li>
 </ul>
