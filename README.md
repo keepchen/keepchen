@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Keepchen
 ===============================================================================================================================
 
-Web developer / Indie hacker / Corgi fans / Other...
+Indie Maker & Full-Stack Dev
 --------------------------------------------------
 
 * 🌍  I'm based in China
@@ -75,5 +75,10 @@ src="https://img.shields.io/twitter/follow/wowgogoing?logo=twitter&style=for-the
   0x29eF68D98e1cb32E68e66d1CBbB7C6786D7aBC53 
   <br/>
   <img src="blockchain-address.png" width="150" alt="blockchain-address"/>
+</li>
+<li style="display: inline-block; margin-right: 0.25rem;">
+  Wechat or Alipay 
+  <br/>
+  <img src="receiver-alipay-wechat-box.png" width="300" alt="wechat-alipay"/>
 </li>
 </ul>
