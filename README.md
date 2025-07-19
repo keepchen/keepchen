@@ -79,6 +79,6 @@ src="https://img.shields.io/twitter/follow/wowgogoing?logo=twitter&style=for-the
 <li style="display: inline-block; margin-right: 0.25rem;">
   Wechat or Alipay 
   <br/>
-  <img src="receiver-alipay-wechat-box.png" width="300" alt="wechat-alipay"/>
+  <img src="receiver-alipay-wechat-box.png" width="500" alt="wechat-alipay"/>
 </li>
 </ul>
