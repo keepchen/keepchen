@@ -75,6 +75,10 @@ src="https://img.shields.io/twitter/follow/wowgogoing?logo=twitter&style=for-the
 <li style="display: inline-block; margin-right: 0.25rem;">
   Wechat or Alipay 
   <br/>
-  <img src="receiver-alipay-wechat-box.png" width="500" alt="wechat-alipay"/>
+  <!-- <img src="receiver-alipay-wechat-box.png" width="500" alt="wechat-alipay"/> -->
+  <div style="width:100%;">
+      <img style="width: 200px;" src="https://blog.keepchen.com/img/receiver-wechat-box.png" alt="keepchen的赞赏码-微信">
+      <img style="width: 200px;" src="https://blog.keepchen.com/img/receiver-alipay-box.png" alt="keepchen的赞赏码-支付宝">
+  </div>
 </li>
 </ul>
