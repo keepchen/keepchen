@@ -15,7 +15,7 @@ src="https://img.shields.io/twitter/follow/wowgogoing?logo=twitter&style=for-the
 ### Skills
 
 
-<p align="left">
+<p align="left" style="display: flex;justify-content: left;gap: 2px;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="Mysql" />
